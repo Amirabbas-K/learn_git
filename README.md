@@ -1,2 +1,2 @@
 # learn_git_markdown
-This is an repo for testing github and testing git hub markdown 
+[licence MIT](https://github.com/Amirabbas-K/learn_git_markdown/blob/master/LICENSE)
