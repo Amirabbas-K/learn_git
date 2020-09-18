@@ -9,5 +9,9 @@
 ![python](https://www.python.org/static/img/python-logo@2x.png)
 ```python
 if a == 2 :
-  print("hello world!")
+  print("hello world!")```
+  --------------------------
+  ```git
+  git clone "https://github.com/Amirabbas-K/learn_git"
+  cd learn_git'''
 
