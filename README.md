@@ -10,6 +10,7 @@
 ```python
 if a == 2 :
   print("hello world!")
+```
 ## how to use
 
 git clone "https://github.com/Amirabbas-K/learn_git"
