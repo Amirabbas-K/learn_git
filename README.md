@@ -16,4 +16,7 @@ if a == 2 :
 git clone "https://github.com/Amirabbas-K/learn_git"
 cd learn_git
 ```
-
+## TODO
+- [] add some python scripts here
+- [] start a git and mark down cheatsheet 
+- [] get more pull requests
