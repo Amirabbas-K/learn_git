@@ -12,7 +12,8 @@ if a == 2 :
   print("hello world!")
 ```
 ## how to use
-
+``` git
 git clone "https://github.com/Amirabbas-K/learn_git"
-
+cd learn_git
+```
 
