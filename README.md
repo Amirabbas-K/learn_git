@@ -20,4 +20,5 @@ cd learn_git
 - [ ] add some python scripts here
 - [ ] start a git and mark down cheatsheet 
 - [ ] add a HTML file here
+- [ ] add vue js to project 
 - [ ] get more pull requests
